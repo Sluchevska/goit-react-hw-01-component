@@ -8,12 +8,13 @@
 .avatar {
   margin-left: 20px;
   border: 1px solid rgb(245, 184, 245);
-  box-shadow: 4px 5px 8px rgb(240, 64, 240);
+  box-shadow: 4px 5px 8px rgb(216, 55, 216);
   border-radius: 4px;
 }
 
 .item {
   display: flex;
+
   background-color: seashell;
   border: 1px solid violet;
   list-style: none;
